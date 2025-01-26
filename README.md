@@ -1,2 +1,2 @@
-# s21string
-init repo
+Project from school21
+
